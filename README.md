@@ -1,6 +1,6 @@
 # Welcome to CodeByteVilla's Developer Hub! 👋
 
-Hi there! I'm @codebytevilla, and I'm excited to have you here in our developer community.
+Hi there! I'm [@codebytevilla](https://github.com/codebytevilla), and I'm excited to have you here in our developer community.
 This repository is all about enhancing your coding experience and fostering collaboration among developers. Let me give you a quick overview:
 
 ## 👀 What We're About
